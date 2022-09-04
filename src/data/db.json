@@ -1,0 +1,32 @@
+{
+    "setting":  {
+        "category": ["Cerveja", "Energético", "Vinho",  "Vodka", "Refrigerante"],
+        "products": [
+            {
+                "id": "XXXX",
+                "item": "Skol Litrão 1 Litro",
+                "brand": "Ambev",
+                "type": "Cerveja",
+                "price": "10.99",
+                "amount": "2"
+             },
+
+             {
+                "id": "MMMM",
+                "item": "Brahma 350ml puro malte",
+                "brand": "Ambev",
+                "type": "Cerveja",
+                "price": "3.09",
+                "amount": "100"
+             },
+             {
+                "id": "XXXX",
+                "item": "Amistel 350ml puro malte",
+                "brand": "Ambev",
+                "type": "Cerveja",
+                "price": "2.89",
+                "amount": "100"
+             }
+        ]
+    }
+}
